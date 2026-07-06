@@ -55,6 +55,10 @@ docs/demo.gif
 
 meeting_minutes.db
 
+# Python
+__pycache__/
+*.py[cod]
+
 # Added by Task Master AI
 # Logs
 logs
